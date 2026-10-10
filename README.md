@@ -1,10 +1,10 @@
 # Creations by Ren
 
-A static exhibition of fourteen projects, in the supplied order. The home page is a scroll-led story. `/list` is a searchable archive. `/list/:slug` contains the project story, media, and one primary destination.
+A static exhibition of fourteen projects, in the supplied order. The home is a scroll-led story with animated 3D objects and project media. `/list` is a searchable archive. `/list/:slug` contains the project story, gallery, video studies, and one primary destination.
 
-## Local development
+## Development
 
-Use Node.js 22 or newer.
+Use Node.js 22 or newer. Media validation uses FFmpeg.
 
 ```sh
 npm ci
@@ -15,33 +15,37 @@ npm run dev
 npm run check
 npm test
 npm run build
+node scripts/verify-static.mjs
 npm run preview
 ```
 
 ## GitHub Pages
 
-The included workflow builds and deploys pushes to `main`. In the repository's **Settings → Pages**, select **GitHub Actions** as the publishing source. Set your custom domain there when ready. No deployment hostname or CNAME is embedded in the source.
+Pushes to `main` run the included build and deployment workflow. GitHub Pages is configured to use GitHub Actions. Set the custom domain in **Settings → Pages** when ready. No deployment domain or CNAME is embedded in the source.
 
-`BASE_PATH` defaults to `/`. The workflow obtains the path from GitHub Pages. To test a project subdirectory locally:
+`BASE_PATH` defaults to `/`. The workflow obtains the path from GitHub Pages. To test a repository subdirectory:
 
 ```sh
 BASE_PATH=/creations/ npm run build
+BASE_PATH=/creations/ node scripts/verify-static.mjs
 ```
 
-The build emits an HTML document for every route, plus `404.html` and `.nojekyll`. Direct detail links therefore work without a server or rewrite rule. All routes include readable static content before JavaScript runs.
+The build emits an HTML document for all sixteen routes, plus `404.html` and `.nojekyll`. Direct detail links therefore work without a server or rewrite rule. Each route has readable static content before JavaScript runs.
 
 ## Content and media
 
-Edit `src/projects.json` for content, ranking, categories, technologies, media, and primary links. Bundled images and videos live in `public/media`. `asset-sources.json` records exact provenance and distinguishes original recordings from animated screenshot studies. Keep links to planned domains even when their deployment is pending.
+Edit `src/projects.json` for content, ranking, categories, technologies, media, and primary links. Bundled assets live in `public/media`. `asset-sources.json` records exact provenance and distinguishes screenshots, original recordings, original motion backgrounds, and animated source studies.
 
-## Motion and access
+The collection includes 85 media entries, with at least five for every project and two video entries per project. Video posters are additional files. Original recordings are used for Zemi, Atlas, Anonchat, Asset Library, WAAWer Coaster, Tenki Weather, and Can Shooting. MGM videos are two excerpts of its laboratory film. Personal Portfolio videos show its original character animation. Yorusa videos are its original motion backgrounds. BiznetGIO and infrastructure videos are animated screenshot or diagram studies. Calendar uses one public capture with labeled crops and screen studies. Voxpop uses source geometry renders with simplified materials and animated studies; these are not gameplay captures. Its live capture remained at the loader and was excluded.
 
-The exhibition supports keyboard navigation, a skip link, live search counts, manual video controls, light and dark themes, and reduced motion. The header can pause decorative motion. Offscreen videos and decorative WebGL scenes stop running. The archive falls back to its original DOM presentation when WebGL is unavailable.
+## Motion and accessibility
 
-## Source and boundaries
+Keyboard navigation, a skip link, live search counts, manual video controls, light and dark themes, and reduced motion are supported. The header can pause decorative motion. Offscreen videos and decorative WebGL scenes stop running. The archive falls back to its original DOM presentation when WebGL is unavailable.
 
-The archive, library world, portals, detail transitions, and image interactions are adapted from the user-supplied `MGM-Laboratory/mgm-website` repository at revision `b962558e3ffbdeb356b2bf5ae5c184e09f16b028`. Fonts are bundled through Fontsource. Laptop and coffee models come from the supplied Zemi repository. No agency code or agency project media is included.
+The home switches from sticky scroll chapters to a normal document layout on narrow screens. Landscape and reduced-motion layouts are included. Interactive browser QA was unavailable in this workspace, so visual parity with MGM and behavior across real devices still require browser review.
 
-Yorusa's live endpoint returned HTTP 521 and its repository was unavailable through the connected account. Its project, description, and live destination remain in the exhibition, with a typographic presentation. No fabricated Yorusa screenshot is included. Calendar and Voxpop each contain one live capture with explicitly labeled crops and animated screen studies. BiznetGIO and infrastructure videos are labeled screenshot/diagram studies. The two MGM clips are distinct excerpts of its original laboratory film.
+## Source provenance
 
-This version passed compilation, catalog/search/routing/media checks, and static-route verification. Interactive browser QA was unavailable in this workspace. Visual parity with MGM and interaction behavior across real devices still require a browser review.
+The archive, library world, portals, detail transitions, and image interactions are adapted from the user-supplied `MGM-Laboratory/mgm-website` repository, revision `b962558e3ffbdeb356b2bf5ae5c184e09f16b028`. Fonts are bundled through Fontsource. Laptop and coffee models come from the supplied Zemi repository. Project screenshots and recordings come from the supplied repositories and MGM's published project media. No agency code or agency project media is included.
+
+All commits are attributed to Shirasaka Ren. No credentials belong in the source, bundle, or deployment.

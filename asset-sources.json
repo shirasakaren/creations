@@ -582,6 +582,48 @@
     "kind": "original-recording"
   },
   {
+    "src": "/media/voxpop/view-01.webp",
+    "type": "image",
+    "alt": "Voxpop: source geometry study of the town",
+    "caption": "Voxpop: source geometry study of the town",
+    "source": "https://github.com/shirasakaren/voxpop/tree/main/src/world",
+    "kind": "source-geometry-render"
+  },
+  {
+    "src": "/media/voxpop/view-02.webp",
+    "type": "image",
+    "alt": "Voxpop: source geometry study from another viewpoint",
+    "caption": "Voxpop: source geometry study from another viewpoint",
+    "source": "https://github.com/shirasakaren/voxpop/tree/main/src/world",
+    "kind": "source-geometry-render"
+  },
+  {
+    "src": "/media/voxpop/view-03.webp",
+    "type": "image",
+    "alt": "Voxpop: source town architecture, detail crop",
+    "caption": "Voxpop: source town architecture, detail crop",
+    "source": "https://github.com/shirasakaren/voxpop/tree/main/src/world",
+    "kind": "source-geometry-render"
+  },
+  {
+    "src": "/media/voxpop/film-01.mp4",
+    "poster": "/media/voxpop/film-01-poster.webp",
+    "type": "video",
+    "alt": "Voxpop source geometry: animated study 1",
+    "caption": "Voxpop source geometry: animated study 1",
+    "source": "https://github.com/shirasakaren/voxpop/tree/main/src/world",
+    "kind": "animated-source-study"
+  },
+  {
+    "src": "/media/voxpop/film-02.mp4",
+    "poster": "/media/voxpop/film-02-poster.webp",
+    "type": "video",
+    "alt": "Voxpop source geometry: animated study 2",
+    "caption": "Voxpop source geometry: animated study 2",
+    "source": "https://github.com/shirasakaren/voxpop/tree/main/src/world",
+    "kind": "animated-source-study"
+  },
+  {
     "src": "/media/calendar/view-01.webp",
     "type": "image",
     "alt": "Monthly calendar overview",
