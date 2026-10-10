@@ -1,0 +1,668 @@
+[
+  {
+    "src": "/media/mgm-laboratory/view-01.webp",
+    "type": "image",
+    "alt": "Laboratory home",
+    "caption": "Laboratory home",
+    "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/1.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/mgm-laboratory/view-02.webp",
+    "type": "image",
+    "alt": "Our research process",
+    "caption": "Our research process",
+    "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/2.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/mgm-laboratory/view-03.webp",
+    "type": "image",
+    "alt": "The laboratory story",
+    "caption": "The laboratory story",
+    "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/6.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/mgm-laboratory/view-04.webp",
+    "type": "image",
+    "alt": "People of the laboratory",
+    "caption": "People of the laboratory",
+    "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/9.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/mgm-laboratory/film-01.mp4",
+    "poster": "/media/mgm-laboratory/film-01-poster.webp",
+    "type": "video",
+    "alt": "Laboratory film: excerpt 1",
+    "caption": "Laboratory film: excerpt 1",
+    "source": "https://labmgm.org/api/home-cms/video/home-video-4ae12fb6-6e17-43c6-a377-6a2a176576da.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/mgm-laboratory/film-02.mp4",
+    "poster": "/media/mgm-laboratory/film-02-poster.webp",
+    "type": "video",
+    "alt": "Laboratory film: excerpt 2",
+    "caption": "Laboratory film: excerpt 2",
+    "source": "https://labmgm.org/api/home-cms/video/home-video-4ae12fb6-6e17-43c6-a377-6a2a176576da.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/zemi/view-01.webp",
+    "type": "image",
+    "alt": "Zemi: project overview",
+    "caption": "Zemi: project overview",
+    "source": "https://labmgm.org/api/projects-cms/media/project-zemi-35be2d6f-004e-43c5-9766-aa217debf632.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/zemi/view-02.webp",
+    "type": "image",
+    "alt": "Zemi: interface view 2",
+    "caption": "Zemi: interface view 2",
+    "source": "https://labmgm.org/api/projects-cms/media/project-zemi-0777d791-8309-48a7-916a-60720a10e122.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/zemi/view-03.webp",
+    "type": "image",
+    "alt": "Zemi: interface view 3",
+    "caption": "Zemi: interface view 3",
+    "source": "https://labmgm.org/api/projects-cms/media/project-zemi-0e29101f-7744-4bb9-b90a-c1bbcc6f7ea7.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/zemi/view-04.webp",
+    "type": "image",
+    "alt": "Zemi: interface view 4",
+    "caption": "Zemi: interface view 4",
+    "source": "https://labmgm.org/api/projects-cms/media/project-zemi-2aca5884-df00-4c88-bcfc-ccaaa551c2c2.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/zemi/view-05.webp",
+    "type": "image",
+    "alt": "Zemi: interface view 5",
+    "caption": "Zemi: interface view 5",
+    "source": "https://labmgm.org/api/projects-cms/media/project-zemi-6f043074-1f0e-4ec1-b477-ef1107c92251.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/zemi/film-01.mp4",
+    "poster": "/media/zemi/film-01-poster.webp",
+    "type": "video",
+    "alt": "Zemi: original demonstration 1",
+    "caption": "Zemi: original demonstration 1",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-zemi-033dbdeb-c3ef-41b3-8563-10a0c50c67b2.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/zemi/film-02.mp4",
+    "poster": "/media/zemi/film-02-poster.webp",
+    "type": "video",
+    "alt": "Zemi: original demonstration 2",
+    "caption": "Zemi: original demonstration 2",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-zemi-03b8630a-3513-4bef-990b-bfecc94e43cf.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/atlas/view-01.webp",
+    "type": "image",
+    "alt": "Atlas: project overview",
+    "caption": "Atlas: project overview",
+    "source": "https://labmgm.org/api/projects-cms/media/project-atlas-2432e473-8982-45c4-bda6-8232ff7dc494.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/atlas/view-02.webp",
+    "type": "image",
+    "alt": "Atlas: interface view 2",
+    "caption": "Atlas: interface view 2",
+    "source": "https://labmgm.org/api/projects-cms/media/project-atlas-02af96ce-12b5-4a43-bbb3-be6a038d2d53.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/atlas/view-03.webp",
+    "type": "image",
+    "alt": "Atlas: interface view 3",
+    "caption": "Atlas: interface view 3",
+    "source": "https://labmgm.org/api/projects-cms/media/project-atlas-109e074c-7f25-49f5-b8aa-a55d9826fd8b.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/atlas/view-04.webp",
+    "type": "image",
+    "alt": "Atlas: interface view 4",
+    "caption": "Atlas: interface view 4",
+    "source": "https://labmgm.org/api/projects-cms/media/project-atlas-21753f3c-0010-4d7e-bfb2-5d42f16fd0cb.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/atlas/view-05.webp",
+    "type": "image",
+    "alt": "Atlas: interface view 5",
+    "caption": "Atlas: interface view 5",
+    "source": "https://labmgm.org/api/projects-cms/media/project-atlas-25f991d6-45bc-471d-abaf-389cc9c8d3aa.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/atlas/film-01.mp4",
+    "poster": "/media/atlas/film-01-poster.webp",
+    "type": "video",
+    "alt": "Atlas: original demonstration 1",
+    "caption": "Atlas: original demonstration 1",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-atlas-05d3df56-1d0a-4767-9778-1ad03432161f.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/atlas/film-02.mp4",
+    "poster": "/media/atlas/film-02-poster.webp",
+    "type": "video",
+    "alt": "Atlas: original demonstration 2",
+    "caption": "Atlas: original demonstration 2",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-atlas-1a593b97-26db-4759-8c00-2e38dfa2fbf3.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/biznetgio/view-01.webp",
+    "type": "image",
+    "alt": "BiznetGIO: docs home",
+    "caption": "BiznetGIO: docs home",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-home.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/biznetgio/view-02.webp",
+    "type": "image",
+    "alt": "BiznetGIO: docs viewport",
+    "caption": "BiznetGIO: docs viewport",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-viewport.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/biznetgio/view-03.webp",
+    "type": "image",
+    "alt": "BiznetGIO: terraform neolite",
+    "caption": "BiznetGIO: terraform neolite",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/terraform-neolite.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/biznetgio/film-01.mp4",
+    "poster": "/media/biznetgio/film-01-poster.webp",
+    "type": "video",
+    "alt": "Documentation screen walkthrough",
+    "caption": "Documentation screen walkthrough",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-home.webp",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/biznetgio/film-02.mp4",
+    "poster": "/media/biznetgio/film-02-poster.webp",
+    "type": "video",
+    "alt": "Terraform example screen walkthrough",
+    "caption": "Terraform example screen walkthrough",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/terraform-neolite.webp",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/anonchat/view-01.webp",
+    "type": "image",
+    "alt": "Anonchat: project overview",
+    "caption": "Anonchat: project overview",
+    "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-18d16c81-9bf2-4c73-baa8-09c0e13c5673.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/anonchat/view-02.webp",
+    "type": "image",
+    "alt": "Anonchat: interface view 2",
+    "caption": "Anonchat: interface view 2",
+    "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-0f658fd0-2ab3-453f-86de-63e6e8f49da3.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/anonchat/view-03.webp",
+    "type": "image",
+    "alt": "Anonchat: interface view 3",
+    "caption": "Anonchat: interface view 3",
+    "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-3806242b-d895-45a2-92e8-a59ba5c5a071.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/anonchat/view-04.webp",
+    "type": "image",
+    "alt": "Anonchat: interface view 4",
+    "caption": "Anonchat: interface view 4",
+    "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-3abfe52e-1059-4461-ace4-40410950e94e.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/anonchat/view-05.webp",
+    "type": "image",
+    "alt": "Anonchat: interface view 5",
+    "caption": "Anonchat: interface view 5",
+    "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-52d7c459-7bf7-455e-b07f-0ee92ac09454.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/anonchat/film-01.mp4",
+    "poster": "/media/anonchat/film-01-poster.webp",
+    "type": "video",
+    "alt": "Anonchat: original demonstration 1",
+    "caption": "Anonchat: original demonstration 1",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-anonchat-1316324c-19f2-4605-9544-fa7b4660df87.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/anonchat/film-02.mp4",
+    "poster": "/media/anonchat/film-02-poster.webp",
+    "type": "video",
+    "alt": "Anonchat: original demonstration 2",
+    "caption": "Anonchat: original demonstration 2",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-anonchat-573934e9-0090-4d6f-ba47-248f8d14d31e.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/personal-portfolio/view-01.webp",
+    "type": "image",
+    "alt": "Portfolio character: wave",
+    "caption": "Portfolio character: wave",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/wave-poster.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/personal-portfolio/view-02.webp",
+    "type": "image",
+    "alt": "Portfolio character: happy",
+    "caption": "Portfolio character: happy",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/happy-bounce-poster.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/personal-portfolio/view-03.webp",
+    "type": "image",
+    "alt": "Portfolio character: delighted",
+    "caption": "Portfolio character: delighted",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/delighted-poster.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/personal-portfolio/film-01.mp4",
+    "poster": "/media/personal-portfolio/film-01-poster.webp",
+    "type": "video",
+    "alt": "Original portfolio character: delighted",
+    "caption": "Original portfolio character: delighted",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/delighted.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/personal-portfolio/film-02.mp4",
+    "poster": "/media/personal-portfolio/film-02-poster.webp",
+    "type": "video",
+    "alt": "Original portfolio character: happy bounce",
+    "caption": "Original portfolio character: happy bounce",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/happy-bounce.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/infrastructure/view-01.webp",
+    "type": "image",
+    "alt": "Architecture study: Estella",
+    "caption": "Architecture study: Estella",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Estella/estella.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/infrastructure/view-02.webp",
+    "type": "image",
+    "alt": "Architecture study: FILCA",
+    "caption": "Architecture study: FILCA",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/FILCA/filca.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/infrastructure/view-03.webp",
+    "type": "image",
+    "alt": "Architecture study: Tenki",
+    "caption": "Architecture study: Tenki",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Tenki/tenki.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/infrastructure/view-04.webp",
+    "type": "image",
+    "alt": "Architecture study: kaizin",
+    "caption": "Architecture study: kaizin",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/kaizin/kaizin.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/infrastructure/view-05.webp",
+    "type": "image",
+    "alt": "Architecture study: a-thousand-rallies",
+    "caption": "Architecture study: a-thousand-rallies",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/a-thousand-rallies/atr.png",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/infrastructure/film-01.mp4",
+    "poster": "/media/infrastructure/film-01-poster.webp",
+    "type": "video",
+    "alt": "Architecture diagram walkthrough: Estella",
+    "caption": "Architecture diagram walkthrough: Estella",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Estella/estella.png",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/infrastructure/film-02.mp4",
+    "poster": "/media/infrastructure/film-02-poster.webp",
+    "type": "video",
+    "alt": "Architecture diagram walkthrough: FILCA",
+    "caption": "Architecture diagram walkthrough: FILCA",
+    "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/FILCA/filca.png",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/tenki-weather/view-01.webp",
+    "type": "image",
+    "alt": "Tenki Weather: hero",
+    "caption": "Tenki Weather: hero",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/hero.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/tenki-weather/view-02.webp",
+    "type": "image",
+    "alt": "Tenki Weather: CaraPakai",
+    "caption": "Tenki Weather: CaraPakai",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/CaraPakai.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/tenki-weather/view-03.webp",
+    "type": "image",
+    "alt": "Tenki Weather: UploadFile",
+    "caption": "Tenki Weather: UploadFile",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/UploadFile.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/tenki-weather/film-01.mp4",
+    "poster": "/media/tenki-weather/film-01-poster.webp",
+    "type": "video",
+    "alt": "Tenki Weather: normaltext demonstration",
+    "caption": "Tenki Weather: normaltext demonstration",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/normaltext.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/tenki-weather/film-02.mp4",
+    "poster": "/media/tenki-weather/film-02-poster.webp",
+    "type": "video",
+    "alt": "Tenki Weather: weatherresult demonstration",
+    "caption": "Tenki Weather: weatherresult demonstration",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/weatherresult.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/yorusa/view-05.webp",
+    "type": "image",
+    "caption": "Yorusa: original fullstack service screenshot",
+    "alt": "Yorusa fullstack engineering service page",
+    "source": "https://github.com/yorusaa/web/blob/main/fs-screen.b64",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/yorusa/view-04.webp",
+    "type": "image",
+    "caption": "Yorusa: original AI engineering service screenshot",
+    "alt": "Yorusa AI engineering service page and interactive robot",
+    "source": "https://github.com/yorusaa/web/blob/main/ai-check-1920.jpeg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/yorusa/view-01.webp",
+    "type": "image",
+    "alt": "Yorusa: original website identity",
+    "caption": "Yorusa: original website identity",
+    "source": "https://github.com/yorusaa/web/blob/main/assets/img/brand/og-default.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/yorusa/view-02.webp",
+    "type": "image",
+    "alt": "Yorusa: aurora motion background poster",
+    "caption": "Yorusa: aurora motion background poster",
+    "source": "https://github.com/yorusaa/web/blob/main/assets/video/aurora-green.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/yorusa/view-03.webp",
+    "type": "image",
+    "alt": "Yorusa: fullstack service screen artwork",
+    "caption": "Yorusa: fullstack service screen artwork",
+    "source": "https://github.com/yorusaa/web/blob/main/assets/img/services/fullstack-screen.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/yorusa/film-01.mp4",
+    "poster": "/media/yorusa/film-01-poster.webp",
+    "type": "video",
+    "alt": "Yorusa original motion background: aurora-green",
+    "caption": "Yorusa original motion background: aurora-green",
+    "source": "https://github.com/yorusaa/web/blob/main/assets/video/aurora-green.mp4",
+    "kind": "original-motion-asset"
+  },
+  {
+    "src": "/media/yorusa/film-02.mp4",
+    "poster": "/media/yorusa/film-02-poster.webp",
+    "type": "video",
+    "alt": "Yorusa original motion background: mesh-green",
+    "caption": "Yorusa original motion background: mesh-green",
+    "source": "https://github.com/yorusaa/web/blob/main/assets/video/mesh-green.mp4",
+    "kind": "original-motion-asset"
+  },
+  {
+    "src": "/media/asset-library/view-01.webp",
+    "type": "image",
+    "alt": "Asset Library: project overview",
+    "caption": "Asset Library: project overview",
+    "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-a629b1b4-7b20-4915-bc3a-22da31a84786.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/asset-library/view-02.webp",
+    "type": "image",
+    "alt": "Asset Library: interface view 2",
+    "caption": "Asset Library: interface view 2",
+    "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-39493e50-7602-4b0c-aef0-d4d87f0581e2.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/asset-library/view-03.webp",
+    "type": "image",
+    "alt": "Asset Library: interface view 3",
+    "caption": "Asset Library: interface view 3",
+    "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-600e17de-1551-4fe1-a6b7-fb0357e1c110.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/asset-library/view-04.webp",
+    "type": "image",
+    "alt": "Asset Library: interface view 4",
+    "caption": "Asset Library: interface view 4",
+    "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-8e6a9963-a94b-4557-b239-c0f116b58aeb.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/asset-library/view-05.webp",
+    "type": "image",
+    "alt": "Asset Library: interface view 5",
+    "caption": "Asset Library: interface view 5",
+    "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-9417386c-79c9-4335-95f2-b2ce2a348766.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/asset-library/film-01.mp4",
+    "poster": "/media/asset-library/film-01-poster.webp",
+    "type": "video",
+    "alt": "Asset Library: original demonstration 1",
+    "caption": "Asset Library: original demonstration 1",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-asset-library-2c89b7a5-e396-4e2f-a694-d4e6613bcbc8.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/asset-library/film-02.mp4",
+    "poster": "/media/asset-library/film-02-poster.webp",
+    "type": "video",
+    "alt": "Asset Library: original demonstration 2",
+    "caption": "Asset Library: original demonstration 2",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-asset-library-309d3a22-1173-4c87-829c-5903c63a6958.webm",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/waawer-coaster/view-01.webp",
+    "type": "image",
+    "alt": "WAAWer Coaster: project overview",
+    "caption": "WAAWer Coaster: project overview",
+    "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-153b0e22-6241-42ad-9178-b94f63c5ae6f.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/waawer-coaster/view-02.webp",
+    "type": "image",
+    "alt": "WAAWer Coaster: interface view 2",
+    "caption": "WAAWer Coaster: interface view 2",
+    "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-0be1a8af-9e40-4fb1-bb0e-1009c47f83e0.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/waawer-coaster/view-03.webp",
+    "type": "image",
+    "alt": "WAAWer Coaster: interface view 3",
+    "caption": "WAAWer Coaster: interface view 3",
+    "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-10ef818a-fb48-4edd-ab64-9e4415dad136.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/waawer-coaster/view-04.webp",
+    "type": "image",
+    "alt": "WAAWer Coaster: interface view 4",
+    "caption": "WAAWer Coaster: interface view 4",
+    "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-4432e709-be04-403b-ae6c-c09813abdad8.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/waawer-coaster/view-05.webp",
+    "type": "image",
+    "alt": "WAAWer Coaster: interface view 5",
+    "caption": "WAAWer Coaster: interface view 5",
+    "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-91d3fcbd-c11d-4fb0-8526-2ec8a40aa7ad.jpg",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/waawer-coaster/film-01.mp4",
+    "poster": "/media/waawer-coaster/film-01-poster.webp",
+    "type": "video",
+    "alt": "WAAWer Coaster: original demonstration 1",
+    "caption": "WAAWer Coaster: original demonstration 1",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-waawer-coaster-08c20b7e-3598-49ad-bf13-09e17aa63f1c.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/waawer-coaster/film-02.mp4",
+    "poster": "/media/waawer-coaster/film-02-poster.webp",
+    "type": "video",
+    "alt": "WAAWer Coaster: original demonstration 2",
+    "caption": "WAAWer Coaster: original demonstration 2",
+    "source": "https://labmgm.org/api/projects-cms/video/demo-waawer-coaster-99f0f676-e833-4ae5-a2c9-68a4b5ec895c.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/calendar/view-01.webp",
+    "type": "image",
+    "alt": "Monthly calendar overview",
+    "caption": "Monthly calendar overview",
+    "source": "https://calendar.labmgm.org",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/calendar/view-02.webp",
+    "type": "image",
+    "alt": "Scheduled events, detail crop",
+    "caption": "Scheduled events, detail crop",
+    "source": "https://calendar.labmgm.org",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/calendar/view-03.webp",
+    "type": "image",
+    "alt": "Calendar legend, detail crop",
+    "caption": "Calendar legend, detail crop",
+    "source": "https://calendar.labmgm.org",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/calendar/film-01.mp4",
+    "poster": "/media/calendar/film-01-poster.webp",
+    "type": "video",
+    "alt": "Monthly calendar overview: animated screen study",
+    "caption": "Monthly calendar overview: animated screen study",
+    "source": "https://calendar.labmgm.org",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/calendar/film-02.mp4",
+    "poster": "/media/calendar/film-02-poster.webp",
+    "type": "video",
+    "alt": "Scheduled events, detail crop: animated screen study",
+    "caption": "Scheduled events, detail crop: animated screen study",
+    "source": "https://calendar.labmgm.org",
+    "kind": "screen-study"
+  },
+  {
+    "src": "/media/can-shooting/view-01.webp",
+    "type": "image",
+    "alt": "Can Shooting: main menu",
+    "caption": "Can Shooting: main menu",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/main-menu.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/can-shooting/view-02.webp",
+    "type": "image",
+    "alt": "Can Shooting: instructions",
+    "caption": "Can Shooting: instructions",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/instructions.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/can-shooting/view-03.webp",
+    "type": "image",
+    "alt": "Can Shooting: game over",
+    "caption": "Can Shooting: game over",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/game-over.webp",
+    "kind": "source-image"
+  },
+  {
+    "src": "/media/can-shooting/film-01.mp4",
+    "poster": "/media/can-shooting/film-01-poster.webp",
+    "type": "video",
+    "alt": "Can Shooting: slow demonstration",
+    "caption": "Can Shooting: slow demonstration",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/slow.mp4",
+    "kind": "original-recording"
+  },
+  {
+    "src": "/media/can-shooting/film-02.mp4",
+    "poster": "/media/can-shooting/film-02-poster.webp",
+    "type": "video",
+    "alt": "Can Shooting: super fast demonstration",
+    "caption": "Can Shooting: super fast demonstration",
+    "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/super-fast.mp4",
+    "kind": "original-recording"
+  }
+]

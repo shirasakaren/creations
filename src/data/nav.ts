@@ -1,0 +1,1 @@
+export const LEGAL_LINKS=[{label:"Main website",href:"https://shirasaka.ren"}];

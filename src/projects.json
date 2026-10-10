@@ -1,0 +1,1111 @@
+[
+  {
+    "rank": 1,
+    "slug": "mgm-laboratory",
+    "title": "MGM Laboratory Website",
+    "category": "Websites",
+    "theme": "lagoon",
+    "color": "#8de1ed",
+    "headline": "A place for ideas to meet.",
+    "summary": "A living home for the laboratory, its people, and its research.",
+    "story": [
+      "The laboratory is more than its publications. This website brings its people, projects, articles, and shared history into one experience.",
+      "The work moves between research and play. The interface follows that same curiosity, with expressive typography, animated scenes, and an archive that invites exploration."
+    ],
+    "features": [
+      "People and research in one shared home",
+      "An interactive article library",
+      "Project stories and laboratory history"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Three.js",
+      "GSAP"
+    ],
+    "cta": "https://labmgm.org",
+    "ctaLabel": "Visit the laboratory",
+    "repos": [
+      "https://github.com/MGM-Laboratory/mgm-website"
+    ],
+    "media": [
+      {
+        "src": "/media/mgm-laboratory/view-01.webp",
+        "type": "image",
+        "alt": "Laboratory home",
+        "caption": "Laboratory home",
+        "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/1.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/mgm-laboratory/view-02.webp",
+        "type": "image",
+        "alt": "Our research process",
+        "caption": "Our research process",
+        "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/2.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/mgm-laboratory/view-03.webp",
+        "type": "image",
+        "alt": "The laboratory story",
+        "caption": "The laboratory story",
+        "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/6.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/mgm-laboratory/view-04.webp",
+        "type": "image",
+        "alt": "People of the laboratory",
+        "caption": "People of the laboratory",
+        "source": "https://github.com/MGM-Laboratory/mgm-website/blob/main/.github/screenshots/9.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/mgm-laboratory/film-01.mp4",
+        "poster": "/media/mgm-laboratory/film-01-poster.webp",
+        "type": "video",
+        "alt": "Laboratory film: excerpt 1",
+        "caption": "Laboratory film: excerpt 1",
+        "source": "https://labmgm.org/api/home-cms/video/home-video-4ae12fb6-6e17-43c6-a377-6a2a176576da.webm",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/mgm-laboratory/film-02.mp4",
+        "poster": "/media/mgm-laboratory/film-02-poster.webp",
+        "type": "video",
+        "alt": "Laboratory film: excerpt 2",
+        "caption": "Laboratory film: excerpt 2",
+        "source": "https://labmgm.org/api/home-cms/video/home-video-4ae12fb6-6e17-43c6-a377-6a2a176576da.webm",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "slug": "zemi",
+    "title": "Zemi",
+    "category": "Websites",
+    "theme": "lavender",
+    "color": "#ceb3fb",
+    "headline": "Pull up a chair.",
+    "summary": "A place to follow the conversations that shape research.",
+    "story": [
+      "A seminar begins with someone sharing an idea. Zemi gives those moments a home, with sessions, speakers, and a growing archive.",
+      "It presents a research community through its conversations. The website makes the next session easy to find and earlier work easy to revisit."
+    ],
+    "features": [
+      "Seminar and speaker discovery",
+      "A searchable session archive",
+      "Publications and community profiles"
+    ],
+    "stack": [
+      "Next.js",
+      "React",
+      "Three.js"
+    ],
+    "cta": "https://zemi.my",
+    "ctaLabel": "Explore Zemi",
+    "repos": [
+      "https://github.com/MGM-Laboratory/zemi"
+    ],
+    "media": [
+      {
+        "src": "/media/zemi/view-01.webp",
+        "type": "image",
+        "alt": "Zemi: project overview",
+        "caption": "Zemi: project overview",
+        "source": "https://labmgm.org/api/projects-cms/media/project-zemi-35be2d6f-004e-43c5-9766-aa217debf632.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/zemi/view-02.webp",
+        "type": "image",
+        "alt": "Zemi: interface view 2",
+        "caption": "Zemi: interface view 2",
+        "source": "https://labmgm.org/api/projects-cms/media/project-zemi-0777d791-8309-48a7-916a-60720a10e122.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/zemi/view-03.webp",
+        "type": "image",
+        "alt": "Zemi: interface view 3",
+        "caption": "Zemi: interface view 3",
+        "source": "https://labmgm.org/api/projects-cms/media/project-zemi-0e29101f-7744-4bb9-b90a-c1bbcc6f7ea7.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/zemi/view-04.webp",
+        "type": "image",
+        "alt": "Zemi: interface view 4",
+        "caption": "Zemi: interface view 4",
+        "source": "https://labmgm.org/api/projects-cms/media/project-zemi-2aca5884-df00-4c88-bcfc-ccaaa551c2c2.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/zemi/view-05.webp",
+        "type": "image",
+        "alt": "Zemi: interface view 5",
+        "caption": "Zemi: interface view 5",
+        "source": "https://labmgm.org/api/projects-cms/media/project-zemi-6f043074-1f0e-4ec1-b477-ef1107c92251.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/zemi/film-01.mp4",
+        "poster": "/media/zemi/film-01-poster.webp",
+        "type": "video",
+        "alt": "Zemi: original demonstration 1",
+        "caption": "Zemi: original demonstration 1",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-zemi-033dbdeb-c3ef-41b3-8563-10a0c50c67b2.webm",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/zemi/film-02.mp4",
+        "poster": "/media/zemi/film-02-poster.webp",
+        "type": "video",
+        "alt": "Zemi: original demonstration 2",
+        "caption": "Zemi: original demonstration 2",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-zemi-03b8630a-3513-4bef-990b-bfecc94e43cf.webm",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "slug": "atlas",
+    "title": "Atlas",
+    "category": "Platforms",
+    "theme": "atlas",
+    "color": "#9ebeff",
+    "headline": "Bring the work together.",
+    "summary": "Projects, conversations, planning, and calls in one workspace.",
+    "story": [
+      "Research teams work across many tools. Atlas brings project discovery, chat, planning, and live collaboration into one self-hosted application.",
+      "Shared identity and project context connect the experience. The infrastructure supports collaborative documents, media rooms, and the files that make everyday work possible."
+    ],
+    "features": [
+      "Project discovery and team chat",
+      "Kanban, Gantt, notes, and whiteboards",
+      "Voice rooms, video, and screen sharing"
+    ],
+    "stack": [
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "LiveKit",
+      "Yjs"
+    ],
+    "cta": "https://atlas.creations.ren",
+    "ctaLabel": "Explore Atlas",
+    "repos": [
+      "https://github.com/rencreations/atlas"
+    ],
+    "media": [
+      {
+        "src": "/media/atlas/view-01.webp",
+        "type": "image",
+        "alt": "Atlas: project overview",
+        "caption": "Atlas: project overview",
+        "source": "https://labmgm.org/api/projects-cms/media/project-atlas-2432e473-8982-45c4-bda6-8232ff7dc494.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/atlas/view-02.webp",
+        "type": "image",
+        "alt": "Atlas: interface view 2",
+        "caption": "Atlas: interface view 2",
+        "source": "https://labmgm.org/api/projects-cms/media/project-atlas-02af96ce-12b5-4a43-bbb3-be6a038d2d53.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/atlas/view-03.webp",
+        "type": "image",
+        "alt": "Atlas: interface view 3",
+        "caption": "Atlas: interface view 3",
+        "source": "https://labmgm.org/api/projects-cms/media/project-atlas-109e074c-7f25-49f5-b8aa-a55d9826fd8b.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/atlas/view-04.webp",
+        "type": "image",
+        "alt": "Atlas: interface view 4",
+        "caption": "Atlas: interface view 4",
+        "source": "https://labmgm.org/api/projects-cms/media/project-atlas-21753f3c-0010-4d7e-bfb2-5d42f16fd0cb.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/atlas/view-05.webp",
+        "type": "image",
+        "alt": "Atlas: interface view 5",
+        "caption": "Atlas: interface view 5",
+        "source": "https://labmgm.org/api/projects-cms/media/project-atlas-25f991d6-45bc-471d-abaf-389cc9c8d3aa.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/atlas/film-01.mp4",
+        "poster": "/media/atlas/film-01-poster.webp",
+        "type": "video",
+        "alt": "Atlas: original demonstration 1",
+        "caption": "Atlas: original demonstration 1",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-atlas-05d3df56-1d0a-4767-9778-1ad03432161f.mp4",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/atlas/film-02.mp4",
+        "poster": "/media/atlas/film-02-poster.webp",
+        "type": "video",
+        "alt": "Atlas: original demonstration 2",
+        "caption": "Atlas: original demonstration 2",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-atlas-1a593b97-26db-4759-8c00-2e38dfa2fbf3.mp4",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "slug": "biznetgio",
+    "title": "BiznetGIO",
+    "category": "Infrastructure",
+    "theme": "ember",
+    "color": "#ffb28a",
+    "headline": "An intention. A configuration.",
+    "summary": "Cloud infrastructure expressed through Terraform and Pulumi.",
+    "story": [
+      "Infrastructure should be repeatable. These providers connect BiznetGIO cloud resources to the tools teams already use to describe and manage them.",
+      "The collection includes provider implementations, examples, published packages, and documentation. It turns a manual sequence into configuration that can be reviewed and reused."
+    ],
+    "features": [
+      "Terraform and Pulumi provider implementations",
+      "Examples for reproducible deployments",
+      "Documentation and packages across languages"
+    ],
+    "stack": [
+      "Go",
+      "Terraform",
+      "Pulumi",
+      "TypeScript",
+      "Python"
+    ],
+    "cta": "https://biznetgio.creations.ren",
+    "ctaLabel": "Read the documentation",
+    "repos": [
+      "https://github.com/shirasakaren/terraform-provider-biznetgio",
+      "https://github.com/shirasakaren/pulumi-biznetgio",
+      "https://github.com/shirasakaren/biznetgio-example-terraform",
+      "https://github.com/shirasakaren/biznetgio-example-pulumi",
+      "https://github.com/shirasakaren/biznetgio-docs"
+    ],
+    "media": [
+      {
+        "src": "/media/biznetgio/view-01.webp",
+        "type": "image",
+        "alt": "BiznetGIO: docs home",
+        "caption": "BiznetGIO: docs home",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-home.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/biznetgio/view-02.webp",
+        "type": "image",
+        "alt": "BiznetGIO: docs viewport",
+        "caption": "BiznetGIO: docs viewport",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-viewport.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/biznetgio/view-03.webp",
+        "type": "image",
+        "alt": "BiznetGIO: terraform neolite",
+        "caption": "BiznetGIO: terraform neolite",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/terraform-neolite.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/biznetgio/film-01.mp4",
+        "poster": "/media/biznetgio/film-01-poster.webp",
+        "type": "video",
+        "alt": "Documentation screen walkthrough",
+        "caption": "Documentation screen walkthrough",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/docs-home.webp",
+        "kind": "screen-study"
+      },
+      {
+        "src": "/media/biznetgio/film-02.mp4",
+        "poster": "/media/biznetgio/film-02-poster.webp",
+        "type": "video",
+        "alt": "Terraform example screen walkthrough",
+        "caption": "Terraform example screen walkthrough",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/biznetgio-iac/terraform-neolite.webp",
+        "kind": "screen-study"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "slug": "anonchat",
+    "title": "Anonchat",
+    "category": "Platforms",
+    "theme": "rose",
+    "color": "#f2aacd",
+    "headline": "A conversation can start quietly.",
+    "summary": "An anonymous inbox with private, persistent conversations.",
+    "story": [
+      "Sometimes a person needs a little distance before they can speak openly. Anonchat gives visitors an anonymous identity and a private conversation with the site owner.",
+      "The application is self-hosted. Message content, attachments, and reactions are encrypted end to end, while the owner can reply and moderate from a dedicated dashboard."
+    ],
+    "features": [
+      "Anonymous visitor identities",
+      "Encrypted messages and attachments",
+      "Real-time replies and moderation"
+    ],
+    "stack": [
+      "React",
+      "TypeScript",
+      "Encryption"
+    ],
+    "cta": "https://anonchat.creations.ren",
+    "ctaLabel": "Explore Anonchat",
+    "repos": [
+      "https://github.com/shirasakaren/anonchat"
+    ],
+    "media": [
+      {
+        "src": "/media/anonchat/view-01.webp",
+        "type": "image",
+        "alt": "Anonchat: project overview",
+        "caption": "Anonchat: project overview",
+        "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-18d16c81-9bf2-4c73-baa8-09c0e13c5673.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/anonchat/view-02.webp",
+        "type": "image",
+        "alt": "Anonchat: interface view 2",
+        "caption": "Anonchat: interface view 2",
+        "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-0f658fd0-2ab3-453f-86de-63e6e8f49da3.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/anonchat/view-03.webp",
+        "type": "image",
+        "alt": "Anonchat: interface view 3",
+        "caption": "Anonchat: interface view 3",
+        "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-3806242b-d895-45a2-92e8-a59ba5c5a071.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/anonchat/view-04.webp",
+        "type": "image",
+        "alt": "Anonchat: interface view 4",
+        "caption": "Anonchat: interface view 4",
+        "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-3abfe52e-1059-4461-ace4-40410950e94e.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/anonchat/view-05.webp",
+        "type": "image",
+        "alt": "Anonchat: interface view 5",
+        "caption": "Anonchat: interface view 5",
+        "source": "https://labmgm.org/api/projects-cms/media/project-anonchat-52d7c459-7bf7-455e-b07f-0ee92ac09454.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/anonchat/film-01.mp4",
+        "poster": "/media/anonchat/film-01-poster.webp",
+        "type": "video",
+        "alt": "Anonchat: original demonstration 1",
+        "caption": "Anonchat: original demonstration 1",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-anonchat-1316324c-19f2-4605-9544-fa7b4660df87.webm",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/anonchat/film-02.mp4",
+        "poster": "/media/anonchat/film-02-poster.webp",
+        "type": "video",
+        "alt": "Anonchat: original demonstration 2",
+        "caption": "Anonchat: original demonstration 2",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-anonchat-573934e9-0090-4d6f-ba47-248f8d14d31e.webm",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "slug": "personal-portfolio",
+    "title": "Personal Portfolio",
+    "category": "Websites",
+    "theme": "iris",
+    "color": "#afaaff",
+    "headline": "There is a person behind the work.",
+    "summary": "My main website, with a little more of my world in it.",
+    "story": [
+      "A project collection shows what I make. My personal website introduces the person behind it, through work, interests, and a more playful sense of identity.",
+      "Character animation and a carefully built interface make the experience personal. It is another way to explore the same curiosity that connects this collection."
+    ],
+    "features": [
+      "Personal introduction and experience",
+      "Project and infrastructure stories",
+      "Animated character interactions"
+    ],
+    "stack": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "cta": "https://shirasaka.ren",
+    "ctaLabel": "Visit my main website",
+    "repos": [
+      "https://github.com/shirasakaren/portfolio"
+    ],
+    "media": [
+      {
+        "src": "/media/personal-portfolio/view-01.webp",
+        "type": "image",
+        "alt": "Portfolio character: wave",
+        "caption": "Portfolio character: wave",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/wave-poster.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/personal-portfolio/view-02.webp",
+        "type": "image",
+        "alt": "Portfolio character: happy",
+        "caption": "Portfolio character: happy",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/happy-bounce-poster.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/personal-portfolio/view-03.webp",
+        "type": "image",
+        "alt": "Portfolio character: delighted",
+        "caption": "Portfolio character: delighted",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/delighted-poster.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/personal-portfolio/film-01.mp4",
+        "poster": "/media/personal-portfolio/film-01-poster.webp",
+        "type": "video",
+        "alt": "Original portfolio character: delighted",
+        "caption": "Original portfolio character: delighted",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/delighted.mp4",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/personal-portfolio/film-02.mp4",
+        "poster": "/media/personal-portfolio/film-02-poster.webp",
+        "type": "video",
+        "alt": "Original portfolio character: happy bounce",
+        "caption": "Original portfolio character: happy bounce",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/ren/happy-bounce.mp4",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "slug": "infrastructure",
+    "title": "Infrastructure Portfolio",
+    "category": "Infrastructure",
+    "theme": "graphite",
+    "color": "#9adfca",
+    "headline": "The part you rarely see.",
+    "summary": "Architecture diagrams for the systems beneath the experience.",
+    "story": [
+      "A useful experience needs a dependable foundation. This collection shows the infrastructure decisions behind several projects through architecture diagrams.",
+      "The drawings make relationships visible. They connect applications, services, networks, and deployment choices so a system can be understood before it is changed."
+    ],
+    "features": [
+      "Application and network architecture",
+      "Five published diagram studies",
+      "Editable Excalidraw source files"
+    ],
+    "stack": [
+      "Infrastructure",
+      "Architecture",
+      "Excalidraw"
+    ],
+    "cta": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio",
+    "ctaLabel": "Explore the architecture",
+    "repos": [
+      "https://github.com/shirasakaren/Infrastructure-Design-Portfolio"
+    ],
+    "media": [
+      {
+        "src": "/media/infrastructure/view-01.webp",
+        "type": "image",
+        "alt": "Architecture study: Estella",
+        "caption": "Architecture study: Estella",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Estella/estella.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/infrastructure/view-02.webp",
+        "type": "image",
+        "alt": "Architecture study: FILCA",
+        "caption": "Architecture study: FILCA",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/FILCA/filca.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/infrastructure/view-03.webp",
+        "type": "image",
+        "alt": "Architecture study: Tenki",
+        "caption": "Architecture study: Tenki",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Tenki/tenki.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/infrastructure/view-04.webp",
+        "type": "image",
+        "alt": "Architecture study: kaizin",
+        "caption": "Architecture study: kaizin",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/kaizin/kaizin.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/infrastructure/view-05.webp",
+        "type": "image",
+        "alt": "Architecture study: a-thousand-rallies",
+        "caption": "Architecture study: a-thousand-rallies",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/a-thousand-rallies/atr.png",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/infrastructure/film-01.mp4",
+        "poster": "/media/infrastructure/film-01-poster.webp",
+        "type": "video",
+        "alt": "Architecture diagram walkthrough: Estella",
+        "caption": "Architecture diagram walkthrough: Estella",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/Estella/estella.png",
+        "kind": "screen-study"
+      },
+      {
+        "src": "/media/infrastructure/film-02.mp4",
+        "poster": "/media/infrastructure/film-02-poster.webp",
+        "type": "video",
+        "alt": "Architecture diagram walkthrough: FILCA",
+        "caption": "Architecture diagram walkthrough: FILCA",
+        "source": "https://github.com/shirasakaren/Infrastructure-Design-Portfolio/blob/main/FILCA/filca.png",
+        "kind": "screen-study"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "slug": "tenki-weather",
+    "title": "Tenki Weather",
+    "category": "Experiments",
+    "theme": "sky",
+    "color": "#9ddaff",
+    "headline": "A forecast, with a familiar face.",
+    "summary": "A weather conversation with Tenki-Chan.",
+    "story": [
+      "Weather information is useful when it is easy to ask for. Tenki Weather puts an Indonesian-language chatbot and an animated character around current conditions and forecasts.",
+      "Built in Unity for the browser, it combines conversation, spoken responses, and batch processing. CSV and spreadsheet uploads let the same experience handle more than one place at a time."
+    ],
+    "features": [
+      "Conversational weather and forecasts",
+      "Indonesian speech responses",
+      "CSV and spreadsheet batch processing"
+    ],
+    "stack": [
+      "Unity",
+      "WebGL",
+      "WeatherAPI"
+    ],
+    "cta": "https://www.youtube.com/watch?v=h3AnszT8V-c",
+    "ctaLabel": "Watch the demonstration",
+    "repos": [
+      "https://github.com/shirasakaren/tenki-weather"
+    ],
+    "media": [
+      {
+        "src": "/media/tenki-weather/view-01.webp",
+        "type": "image",
+        "alt": "Tenki Weather: hero",
+        "caption": "Tenki Weather: hero",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/hero.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/tenki-weather/view-02.webp",
+        "type": "image",
+        "alt": "Tenki Weather: CaraPakai",
+        "caption": "Tenki Weather: CaraPakai",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/CaraPakai.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/tenki-weather/view-03.webp",
+        "type": "image",
+        "alt": "Tenki Weather: UploadFile",
+        "caption": "Tenki Weather: UploadFile",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/UploadFile.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/tenki-weather/film-01.mp4",
+        "poster": "/media/tenki-weather/film-01-poster.webp",
+        "type": "video",
+        "alt": "Tenki Weather: normaltext demonstration",
+        "caption": "Tenki Weather: normaltext demonstration",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/normaltext.mp4",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/tenki-weather/film-02.mp4",
+        "poster": "/media/tenki-weather/film-02-poster.webp",
+        "type": "video",
+        "alt": "Tenki Weather: weatherresult demonstration",
+        "caption": "Tenki Weather: weatherresult demonstration",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/tenki/weatherresult.mp4",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "slug": "yorusa",
+    "title": "Yorusa Website",
+    "category": "Websites",
+    "theme": "violet",
+    "color": "#c3a3ff",
+    "headline": "A company, made approachable.",
+    "summary": "A motion-led company website for Yorusa and its engineering services.",
+    "story": [
+      "A company website creates a first impression. Yorusa presents its engineering services through a public experience built around motion, visual identity, and clear routes into the work.",
+      "The site connects fullstack and mobile development with infrastructure, automation, AI, and games. Interactive scenes and original green motion textures give the experience a consistent identity."
+    ],
+    "features": [
+      "Six engineering service areas",
+      "Interactive service scenes and motion backgrounds",
+      "Work, articles, and company information"
+    ],
+    "stack": [
+      "JavaScript",
+      "Three.js",
+      "React",
+      "Static generation"
+    ],
+    "cta": "https://yorusa.com",
+    "ctaLabel": "Visit Yorusa",
+    "repos": [
+      "https://github.com/yorusaa/web"
+    ],
+    "media": [
+      {
+        "src": "/media/yorusa/view-05.webp",
+        "type": "image",
+        "caption": "Yorusa: original fullstack service screenshot",
+        "alt": "Yorusa fullstack engineering service page",
+        "source": "https://github.com/yorusaa/web/blob/main/fs-screen.b64",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/yorusa/view-04.webp",
+        "type": "image",
+        "caption": "Yorusa: original AI engineering service screenshot",
+        "alt": "Yorusa AI engineering service page and interactive robot",
+        "source": "https://github.com/yorusaa/web/blob/main/ai-check-1920.jpeg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/yorusa/view-01.webp",
+        "type": "image",
+        "alt": "Yorusa: original website identity",
+        "caption": "Yorusa: original website identity",
+        "source": "https://github.com/yorusaa/web/blob/main/assets/img/brand/og-default.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/yorusa/view-02.webp",
+        "type": "image",
+        "alt": "Yorusa: aurora motion background poster",
+        "caption": "Yorusa: aurora motion background poster",
+        "source": "https://github.com/yorusaa/web/blob/main/assets/video/aurora-green.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/yorusa/view-03.webp",
+        "type": "image",
+        "alt": "Yorusa: fullstack service screen artwork",
+        "caption": "Yorusa: fullstack service screen artwork",
+        "source": "https://github.com/yorusaa/web/blob/main/assets/img/services/fullstack-screen.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/yorusa/film-01.mp4",
+        "poster": "/media/yorusa/film-01-poster.webp",
+        "type": "video",
+        "alt": "Yorusa original motion background: aurora-green",
+        "caption": "Yorusa original motion background: aurora-green",
+        "source": "https://github.com/yorusaa/web/blob/main/assets/video/aurora-green.mp4",
+        "kind": "original-motion-asset"
+      },
+      {
+        "src": "/media/yorusa/film-02.mp4",
+        "poster": "/media/yorusa/film-02-poster.webp",
+        "type": "video",
+        "alt": "Yorusa original motion background: mesh-green",
+        "caption": "Yorusa original motion background: mesh-green",
+        "source": "https://github.com/yorusaa/web/blob/main/assets/video/mesh-green.mp4",
+        "kind": "original-motion-asset"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "slug": "asset-library",
+    "title": "Asset Library",
+    "category": "Platforms",
+    "theme": "grove",
+    "color": "#a3efbc",
+    "headline": "Give useful things a shared home.",
+    "summary": "A private catalogue of assets for the laboratory and its partners.",
+    "story": [
+      "Good assets become more useful when people can find them. Asset Library gives shared resources a catalogue, with previews and a place to request what is missing.",
+      "The interface connects discovery with the details needed to use an asset. The collection supports laboratory work without scattering resources across separate conversations."
+    ],
+    "features": [
+      "Asset browsing and previews",
+      "Detailed resource pages",
+      "Requests and shared catalogue management"
+    ],
+    "stack": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ],
+    "cta": "https://asset.creations.ren",
+    "ctaLabel": "Explore the library",
+    "repos": [
+      "https://github.com/shirasakaren/asset-library"
+    ],
+    "media": [
+      {
+        "src": "/media/asset-library/view-01.webp",
+        "type": "image",
+        "alt": "Asset Library: project overview",
+        "caption": "Asset Library: project overview",
+        "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-a629b1b4-7b20-4915-bc3a-22da31a84786.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/asset-library/view-02.webp",
+        "type": "image",
+        "alt": "Asset Library: interface view 2",
+        "caption": "Asset Library: interface view 2",
+        "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-39493e50-7602-4b0c-aef0-d4d87f0581e2.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/asset-library/view-03.webp",
+        "type": "image",
+        "alt": "Asset Library: interface view 3",
+        "caption": "Asset Library: interface view 3",
+        "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-600e17de-1551-4fe1-a6b7-fb0357e1c110.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/asset-library/view-04.webp",
+        "type": "image",
+        "alt": "Asset Library: interface view 4",
+        "caption": "Asset Library: interface view 4",
+        "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-8e6a9963-a94b-4557-b239-c0f116b58aeb.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/asset-library/view-05.webp",
+        "type": "image",
+        "alt": "Asset Library: interface view 5",
+        "caption": "Asset Library: interface view 5",
+        "source": "https://labmgm.org/api/projects-cms/media/project-asset-library-9417386c-79c9-4335-95f2-b2ce2a348766.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/asset-library/film-01.mp4",
+        "poster": "/media/asset-library/film-01-poster.webp",
+        "type": "video",
+        "alt": "Asset Library: original demonstration 1",
+        "caption": "Asset Library: original demonstration 1",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-asset-library-2c89b7a5-e396-4e2f-a694-d4e6613bcbc8.webm",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/asset-library/film-02.mp4",
+        "poster": "/media/asset-library/film-02-poster.webp",
+        "type": "video",
+        "alt": "Asset Library: original demonstration 2",
+        "caption": "Asset Library: original demonstration 2",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-asset-library-309d3a22-1173-4c87-829c-5903c63a6958.webm",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "slug": "waawer-coaster",
+    "title": "WAAWer Coaster",
+    "category": "Games",
+    "theme": "sunburst",
+    "color": "#ffe094",
+    "headline": "What if you built the ride?",
+    "summary": "A playful browser world for building roller coasters.",
+    "story": [
+      "A small idea can turn into a whole world. WAAWer Coaster invites you to shape a track, explore a colourful park, and experience the ride you have made.",
+      "The browser becomes a construction toy. The experience moves between building and riding, with a world designed to make experimentation feel inviting."
+    ],
+    "features": [
+      "Interactive coaster construction",
+      "A colourful three-dimensional park",
+      "A first-person ride experience"
+    ],
+    "stack": [
+      "JavaScript",
+      "Three.js",
+      "WebGL"
+    ],
+    "cta": "https://shirasakaren.github.io/waawer-coaster/",
+    "ctaLabel": "Play WAAWer Coaster",
+    "repos": [
+      "https://github.com/shirasakaren/waawer-coaster"
+    ],
+    "media": [
+      {
+        "src": "/media/waawer-coaster/view-01.webp",
+        "type": "image",
+        "alt": "WAAWer Coaster: project overview",
+        "caption": "WAAWer Coaster: project overview",
+        "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-153b0e22-6241-42ad-9178-b94f63c5ae6f.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/waawer-coaster/view-02.webp",
+        "type": "image",
+        "alt": "WAAWer Coaster: interface view 2",
+        "caption": "WAAWer Coaster: interface view 2",
+        "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-0be1a8af-9e40-4fb1-bb0e-1009c47f83e0.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/waawer-coaster/view-03.webp",
+        "type": "image",
+        "alt": "WAAWer Coaster: interface view 3",
+        "caption": "WAAWer Coaster: interface view 3",
+        "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-10ef818a-fb48-4edd-ab64-9e4415dad136.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/waawer-coaster/view-04.webp",
+        "type": "image",
+        "alt": "WAAWer Coaster: interface view 4",
+        "caption": "WAAWer Coaster: interface view 4",
+        "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-4432e709-be04-403b-ae6c-c09813abdad8.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/waawer-coaster/view-05.webp",
+        "type": "image",
+        "alt": "WAAWer Coaster: interface view 5",
+        "caption": "WAAWer Coaster: interface view 5",
+        "source": "https://labmgm.org/api/projects-cms/media/project-waawer-coaster-91d3fcbd-c11d-4fb0-8526-2ec8a40aa7ad.jpg",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/waawer-coaster/film-01.mp4",
+        "poster": "/media/waawer-coaster/film-01-poster.webp",
+        "type": "video",
+        "alt": "WAAWer Coaster: original demonstration 1",
+        "caption": "WAAWer Coaster: original demonstration 1",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-waawer-coaster-08c20b7e-3598-49ad-bf13-09e17aa63f1c.mp4",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/waawer-coaster/film-02.mp4",
+        "poster": "/media/waawer-coaster/film-02-poster.webp",
+        "type": "video",
+        "alt": "WAAWer Coaster: original demonstration 2",
+        "caption": "WAAWer Coaster: original demonstration 2",
+        "source": "https://labmgm.org/api/projects-cms/video/demo-waawer-coaster-99f0f676-e833-4ae5-a2c9-68a4b5ec895c.mp4",
+        "kind": "original-recording"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "slug": "voxpop",
+    "title": "Voxpop",
+    "category": "Games",
+    "theme": "blush",
+    "color": "#f7a6d4",
+    "headline": "Every voice has a story.",
+    "summary": "A tiny reporting game about listening to people.",
+    "story": [
+      "You play Rin Sakuraba, a rookie reporter at the Hoshimachi Herald. Walk a planet-sized town, interview its residents, and print the front page.",
+      "The assignments bring real issues into a personal story. A small world becomes a way to spend time with other perspectives, from digital privacy to loneliness and local shops."
+    ],
+    "features": [
+      "A walkable planet and resident interviews",
+      "Reporting assignments and front pages",
+      "Hidden scoops and a photo mode"
+    ],
+    "stack": [
+      "JavaScript",
+      "Three.js",
+      "Tone.js"
+    ],
+    "cta": "https://shirasakaren.github.io/voxpop/",
+    "ctaLabel": "Enter the world of Voxpop",
+    "repos": [
+      "https://github.com/shirasakaren/voxpop"
+    ],
+    "media": []
+  },
+  {
+    "rank": 13,
+    "slug": "calendar",
+    "title": "Calendar",
+    "category": "Platforms",
+    "theme": "storybook",
+    "color": "#d3eea0",
+    "headline": "Make room for what comes next.",
+    "summary": "A shared view of the laboratory schedule.",
+    "story": [
+      "A shared calendar helps a community move together. This project brings laboratory events into a clear monthly view.",
+      "The frontend and backend work together to manage scheduling. The public view makes upcoming sessions and the rhythm of the laboratory easier to follow."
+    ],
+    "features": [
+      "Monthly event overview",
+      "Shared laboratory scheduling",
+      "Separate frontend and backend repositories"
+    ],
+    "stack": [
+      "Next.js",
+      "Go",
+      "Calendar"
+    ],
+    "cta": "https://calendar.labmgm.org",
+    "ctaLabel": "Open the calendar",
+    "repos": [
+      "https://github.com/MGM-Laboratory/mgm-calendar-frontend",
+      "https://github.com/MGM-Laboratory/mgm-calendar-backend"
+    ],
+    "media": [
+      {
+        "src": "/media/calendar/view-01.webp",
+        "type": "image",
+        "alt": "Monthly calendar overview",
+        "caption": "Monthly calendar overview",
+        "source": "https://calendar.labmgm.org",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/calendar/view-02.webp",
+        "type": "image",
+        "alt": "Scheduled events, detail crop",
+        "caption": "Scheduled events, detail crop",
+        "source": "https://calendar.labmgm.org",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/calendar/view-03.webp",
+        "type": "image",
+        "alt": "Calendar legend, detail crop",
+        "caption": "Calendar legend, detail crop",
+        "source": "https://calendar.labmgm.org",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/calendar/film-01.mp4",
+        "poster": "/media/calendar/film-01-poster.webp",
+        "type": "video",
+        "alt": "Monthly calendar overview: animated screen study",
+        "caption": "Monthly calendar overview: animated screen study",
+        "source": "https://calendar.labmgm.org",
+        "kind": "screen-study"
+      },
+      {
+        "src": "/media/calendar/film-02.mp4",
+        "poster": "/media/calendar/film-02-poster.webp",
+        "type": "video",
+        "alt": "Scheduled events, detail crop: animated screen study",
+        "caption": "Scheduled events, detail crop: animated screen study",
+        "source": "https://calendar.labmgm.org",
+        "kind": "screen-study"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "slug": "can-shooting",
+    "title": "Can Shooting",
+    "category": "Games",
+    "theme": "ember",
+    "color": "#ffb493",
+    "headline": "Start small. Make it fun.",
+    "summary": "A target game built in Scratch.",
+    "story": [
+      "Some projects begin with a simple challenge. Can Shooting turns aiming at a target into a quick, playful game.",
+      "The project keeps the loop clear: begin, aim, play, and try again. It belongs here because small experiments are part of how larger ideas learn to move."
+    ],
+    "features": [
+      "Aiming and target interaction",
+      "Instructions and game states",
+      "Different speeds in the game loop"
+    ],
+    "stack": [
+      "Scratch",
+      "Game design"
+    ],
+    "cta": "https://scratch.mit.edu/projects/1044232021/",
+    "ctaLabel": "Play Can Shooting",
+    "repos": [
+      "https://github.com/shirasakaren/can-shooting"
+    ],
+    "media": [
+      {
+        "src": "/media/can-shooting/view-01.webp",
+        "type": "image",
+        "alt": "Can Shooting: main menu",
+        "caption": "Can Shooting: main menu",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/main-menu.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/can-shooting/view-02.webp",
+        "type": "image",
+        "alt": "Can Shooting: instructions",
+        "caption": "Can Shooting: instructions",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/instructions.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/can-shooting/view-03.webp",
+        "type": "image",
+        "alt": "Can Shooting: game over",
+        "caption": "Can Shooting: game over",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/game-over.webp",
+        "kind": "source-image"
+      },
+      {
+        "src": "/media/can-shooting/film-01.mp4",
+        "poster": "/media/can-shooting/film-01-poster.webp",
+        "type": "video",
+        "alt": "Can Shooting: slow demonstration",
+        "caption": "Can Shooting: slow demonstration",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/slow.mp4",
+        "kind": "original-recording"
+      },
+      {
+        "src": "/media/can-shooting/film-02.mp4",
+        "poster": "/media/can-shooting/film-02-poster.webp",
+        "type": "video",
+        "alt": "Can Shooting: super fast demonstration",
+        "caption": "Can Shooting: super fast demonstration",
+        "source": "https://github.com/shirasakaren/portfolio/blob/main/public/projects/can-shooting/super-fast.mp4",
+        "kind": "original-recording"
+      }
+    ]
+  }
+]
