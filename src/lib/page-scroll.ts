@@ -1,3 +1,5 @@
+import { motionAllowed } from "@/lib/reduced-motion";
+
 /**
  * Programmatic page scrolling that cooperates with whatever scroller the
  * current page runs. A page with its own JS smooth scroller (the /projects
@@ -35,6 +37,7 @@ function resolveY(target: PageScrollTarget, offset: number) {
 
 /** Scrolls the page to `target`, through the registered scroller if any. */
 export function scrollPageTo(target: PageScrollTarget, options: PageScrollOptions = {}) {
+  if (!motionAllowed()) options = { ...options, duration: 0 };
   if (scroller) {
     scroller(target, options);
     return;

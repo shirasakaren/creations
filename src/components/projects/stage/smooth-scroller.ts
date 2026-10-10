@@ -1,6 +1,7 @@
 import { addFrameCallback } from "@/components/projects/stage/frame-loop";
 import { setPageScroller, type PageScrollOptions, type PageScrollTarget } from "@/lib/page-scroll";
 import { isScrollLocked, onScrollLockChange } from "@/lib/scroll-lock";
+import { motionAllowed } from "@/lib/reduced-motion";
 
 /**
  * Wheel smoothing for /projects (Lenis), run only for fine-pointer,
@@ -68,7 +69,10 @@ export type SmoothScrollOptions = {
 
 /** Starts the smooth scroller; resolves with its stop function. */
 export async function startSmoothScroll(options: SmoothScrollOptions = {}): Promise<() => void> {
+  const allowed = () => motionAllowed() && window.matchMedia("(hover: hover) and (pointer: fine)").matches;
+  if (!allowed()) return () => {};
   const { default: Lenis } = await import("lenis");
+  if (!allowed()) return () => {};
   const lerp = options.lerp ?? WHEEL_LERP;
   const maxWheelDelta = options.maxWheelDelta;
 
