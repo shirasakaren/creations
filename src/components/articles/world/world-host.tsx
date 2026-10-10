@@ -26,7 +26,7 @@ import {
   registerArticleWorldLayer,
 } from "@/lib/article-transition";
 import { registerHeaderToneProvider } from "@/lib/header-tone";
-import { motionAllowed, onReducedMotion } from "@/lib/reduced-motion";
+import { motionAllowed, onReducedMotion, useMotionPreference } from "@/lib/reduced-motion";
 import { registerThemeSwitchHandler } from "@/lib/theme-switch";
 
 // Layout effects on purpose (docs/animation-system.md gotcha #13): the
@@ -91,13 +91,14 @@ function isDark() {
  * first) and kept across list and article navigations, which is what lets
  * the transitions between them play inside one continuous scene.
  *
- * Decides the mode once per visit (world-registry.ts): the WebGL world for
- * visitors with motion allowed and a hardware WebGL2 context, otherwise the
- * DOM list for the whole visit. Renders nothing itself: the engine appends
+ * Uses the WebGL world when motion and a hardware WebGL2 context are
+ * available, otherwise the DOM list. A motion preference change restarts
+ * this decision so the visitor can resume the world. The engine appends
  * its canvas to <body>, outside the smooth-scroll wrapper.
  */
 export function ArticlesWorldHost() {
   const pathname = usePathname();
+  const motion = useMotionPreference();
 
   useIsomorphicLayoutEffect(() => {
     const offLayer = registerArticleWorldLayer();
@@ -262,8 +263,8 @@ export function ArticlesWorldHost() {
         : null;
 
     const offReduced = onReducedMotion(() => {
-      // Final for the visit: an engine still loading or starting must not
-      // publish itself after this.
+      // An engine still loading or starting must not publish itself after
+      // motion is paused. A later preference change creates a fresh engine.
       cancelled = true;
       teardown();
       offCursor?.();
@@ -280,7 +281,7 @@ export function ArticlesWorldHost() {
       offLayer();
       resetWorldState();
     };
-  }, []);
+  }, [motion]);
 
   // Dress the world for the page on screen.
   useIsomorphicLayoutEffect(() => {
